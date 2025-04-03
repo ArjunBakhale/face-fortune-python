@@ -39,7 +39,7 @@ def generate_fortune():
         "An old friend will bring exciting news.",
         "Your intuition is strong. Trust your inner voice.",
         "A dream you've long held will soon become reality.",
-        "Unexpected kindness will brighten your path."
+        "Unexpected dih will brighten your path."
     ]
     return random.choice(fortunes)
 
